@@ -241,7 +241,7 @@ img {
 }
 
 .img1 {
-    background-image: url(./img/aluraoracle.png);
+    background-image: url(../img/aluraoracle.png);
 }
 
 .img2 {
@@ -249,7 +249,7 @@ img {
 }
 
 .img3 {
-    background-image: url(img/logo-itm.png);
+    background-image: url(../img/logo-itm.png);
 }
 
 .formaciones-cursos__card_info {

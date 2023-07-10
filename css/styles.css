@@ -303,7 +303,7 @@ img {
 }
 
 .imagen3 {
-    background-image: url(/..img/FormularioEncuesta.png);
+    background-image: url(../img/FormularioEncuesta.png);
 }
 
 .imagen4 {
@@ -311,11 +311,11 @@ img {
 }
 
 .imagen5 {
-    background-image: url(img/portfoli2.png);
+    background-image: url(../img/portfoli2.png);
 }
 
 .imagen6 {
-    background-image: url(img/Web2.png);
+    background-image: url(../img/Web2.png);
 }
 
 .proyectos__lista_item_info {
@@ -384,7 +384,7 @@ img {
 }
 
 .contacto__imagen {
-    background-image: url(img/unsplash_JYGnB9gTCls.png);
+    background-image: url(../img/unsplash_JYGnB9gTCls.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

@@ -294,7 +294,7 @@ img {
 }
 
 .imagen1 {
-    background-image: url(/img/Encriptador2.jpeg);
+    background-image: url(../img/Encriptador2.jpeg);
 }
 
 .imagen2 {
@@ -303,11 +303,11 @@ img {
 }
 
 .imagen3 {
-    background-image: url(img/FormularioEncuesta.png);
+    background-image: url(/..img/FormularioEncuesta.png);
 }
 
 .imagen4 {
-    background-image: url(img/TributePage.png);
+    background-image: url(../img/TributePage.png);
 }
 
 .imagen5 {

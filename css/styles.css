@@ -127,8 +127,6 @@ img {
     line-height: 2.5rem;
 }
 
-.presentacion__social {}
-
 .presentacion__social_lista {
     padding: 1.5rem 0;
     display: flex;
@@ -271,8 +269,6 @@ img {
 .proyectos__titulo {
     text-align: center;
 }
-
-.proyectos__lista {}
 
 .proyectos__lista_item {
     margin: 2rem 0;
@@ -510,11 +506,6 @@ img {
     .presentacion__social_lista a {
         margin-right: none;
     }
-}
-
-@media screen and (max-width: 846px) {
-    /*Formación - cursos*/
-    .formaciones-cursos__card {}
 }
 
 @media screen and (max-width: 768px) {

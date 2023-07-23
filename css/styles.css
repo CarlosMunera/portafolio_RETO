@@ -314,6 +314,14 @@ img {
     background-image: url(../img/Web2.png);
 }
 
+.imagen7 {
+    background-image: url(../img/vista_previa.PNG);
+}
+
+.imagen8 {
+    background-image: url(../img/ecommerce.PNG);
+}
+
 .proyectos__lista_item_info {
     min-width: 39%;
     min-height: 40.6rem;

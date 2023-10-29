@@ -338,7 +338,13 @@ img {
     background-image: url(../img/Aluraflix.JPG);
 }
 
+.imagen14{
+    background-image: url(../img/tareas.PNG);
+}
 
+.imagen15{
+    background-image: url(../img/freelancer.PNG)
+}
 
 .proyectos__lista_item_info {
     min-width: 39%;

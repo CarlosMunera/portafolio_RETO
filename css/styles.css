@@ -46,6 +46,10 @@ img {
     max-width: 100%;
 }
 
+a{
+    text-decoration: none;
+}
+
 
 /*  */
 
@@ -348,6 +352,10 @@ img {
 
 .imagen16{
     background-image: url(../img/veterinaria.png);
+}
+
+.imagen17{
+    background-image: url(../img/vistaPreviaCM.PNG);
 }
 
 .proyectos__lista_item_info {
